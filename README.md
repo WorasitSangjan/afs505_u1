@@ -1,1 +1,1 @@
-AFS 505
+Assignment of AFS505 course
